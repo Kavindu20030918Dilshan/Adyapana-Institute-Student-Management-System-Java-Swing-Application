@@ -203,7 +203,7 @@ public class Dashboard extends javax.swing.JFrame {
         setTitle("Adyapana Institute System");
         setResizable(false);
 
-        jPanel1.setBackground(new java.awt.Color(153, 153, 153));
+        jPanel1.setBackground(new java.awt.Color(51, 153, 255));
 
         jButton1.setFont(new java.awt.Font("Segoe UI", 0, 14)); // NOI18N
         jButton1.setText("Student Management");
